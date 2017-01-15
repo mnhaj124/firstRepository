@@ -6,6 +6,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("Qureshi");
 		System.out.println("Print Change");
+		System.out.println("Qureshi Change");
 	}
 
 }
