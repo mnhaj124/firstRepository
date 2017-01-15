@@ -7,6 +7,8 @@ public class main {
 		System.out.println("Qureshi");
 		System.out.println("Print Change");
 		System.out.println("Qureshi Change");
+		System.out.println("Qureshi another");
+		
 	}
 
 }
